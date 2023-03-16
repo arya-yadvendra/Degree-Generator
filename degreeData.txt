@@ -1,0 +1,6 @@
+4
+Name of student, Roll number, Programme Name, Year of Award, Percentage
+Dhruv, CS003, MCA, 2024, 92.4
+Himani, CS029, MCA, 2024, 91.7
+Surbhi, CS103, M.Sc. (CS), 2023, 95
+Himani, CS013, MCA, 2022, 89
