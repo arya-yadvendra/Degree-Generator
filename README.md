@@ -1,5 +1,13 @@
 # Degree-Generator
 
+Author:-
+    YADVENDRA YADAV   DU(MCA)
+
+Supervised by:-
+    DR. BHARTI RANA (ASST. PROFESSOR, DEPT. OF COMP. SCIENCE, UNIVERSITY OF DELHI)
+    
+    COMPLETION DATE: March 16,2023
+
 '''Degree generator: A modular and menu-driven program in Python to generate Marksheets and degrees:
 *** menu-options:
 1. To generate a degree in bulk
